@@ -1,0 +1,15 @@
+C:\Users\Huzyfa\source\repos\smstest1\smstest1\bin\Debug\smstest1.exe.config
+C:\Users\Huzyfa\source\repos\smstest1\smstest1\bin\Debug\smstest1.exe
+C:\Users\Huzyfa\source\repos\smstest1\smstest1\bin\Debug\smstest1.pdb
+C:\Users\Huzyfa\source\repos\smstest1\smstest1\obj\Debug\smstest1.csproj.AssemblyReference.cache
+C:\Users\Huzyfa\source\repos\smstest1\smstest1\obj\Debug\smstest1.Form1.resources
+C:\Users\Huzyfa\source\repos\smstest1\smstest1\obj\Debug\smstest1.Properties.Resources.resources
+C:\Users\Huzyfa\source\repos\smstest1\smstest1\obj\Debug\smstest1.csproj.GenerateResource.cache
+C:\Users\Huzyfa\source\repos\smstest1\smstest1\obj\Debug\smstest1.csproj.CoreCompileInputs.cache
+C:\Users\Huzyfa\source\repos\smstest1\smstest1\obj\Debug\smstest1.exe
+C:\Users\Huzyfa\source\repos\smstest1\smstest1\obj\Debug\smstest1.pdb
+C:\Users\Huzyfa\source\repos\smstest1\smstest1\obj\Debug\smstest1.UserControls.AdminUserControl.resources
+C:\Users\Huzyfa\source\repos\smstest1\smstest1\obj\Debug\smstest1.AdmitUserFrom_UC.resources
+C:\Users\Huzyfa\source\repos\smstest1\smstest1\obj\Debug\smstest1.UserControls.LoginForm_UC.resources
+C:\Users\Huzyfa\source\repos\smstest1\smstest1\obj\Debug\smstest1.UserControls.CreateSemester_UC.resources
+C:\Users\Huzyfa\source\repos\smstest1\smstest1\obj\Debug\smstest1.UserControls.CreateCourse_UC.resources

@@ -1,0 +1,189 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Huzyfa\\source\\repos\\smstest1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A13D6E1-590D-46FC-A5D7-933C3ED4FEDE}|smstest1\\smstest1.csproj|C:\\Users\\Huzyfa\\source\\repos\\smstest1\\smstest1\\usercontrols\\createsemester_uc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A13D6E1-590D-46FC-A5D7-933C3ED4FEDE}|smstest1\\smstest1.csproj|solutionrelative:smstest1\\usercontrols\\createsemester_uc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A13D6E1-590D-46FC-A5D7-933C3ED4FEDE}|smstest1\\smstest1.csproj|c:\\users\\huzyfa\\source\\repos\\smstest1\\smstest1\\usercontrols\\createsemester_uc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9A13D6E1-590D-46FC-A5D7-933C3ED4FEDE}|smstest1\\smstest1.csproj|solutionrelative:smstest1\\usercontrols\\createsemester_uc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A13D6E1-590D-46FC-A5D7-933C3ED4FEDE}|smstest1\\smstest1.csproj|C:\\Users\\Huzyfa\\source\\repos\\smstest1\\smstest1\\usercontrols\\adminusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9A13D6E1-590D-46FC-A5D7-933C3ED4FEDE}|smstest1\\smstest1.csproj|solutionrelative:smstest1\\usercontrols\\adminusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A13D6E1-590D-46FC-A5D7-933C3ED4FEDE}|smstest1\\smstest1.csproj|C:\\Users\\Huzyfa\\source\\repos\\smstest1\\smstest1\\usercontrols\\adminusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A13D6E1-590D-46FC-A5D7-933C3ED4FEDE}|smstest1\\smstest1.csproj|solutionrelative:smstest1\\usercontrols\\adminusercontrol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A13D6E1-590D-46FC-A5D7-933C3ED4FEDE}|smstest1\\smstest1.csproj|c:\\users\\huzyfa\\source\\repos\\smstest1\\smstest1\\usercontrols\\createcourse_uc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A13D6E1-590D-46FC-A5D7-933C3ED4FEDE}|smstest1\\smstest1.csproj|solutionrelative:smstest1\\usercontrols\\createcourse_uc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A13D6E1-590D-46FC-A5D7-933C3ED4FEDE}|smstest1\\smstest1.csproj|C:\\Users\\Huzyfa\\source\\repos\\smstest1\\smstest1\\sqlfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A13D6E1-590D-46FC-A5D7-933C3ED4FEDE}|smstest1\\smstest1.csproj|solutionrelative:smstest1\\sqlfunctions.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A13D6E1-590D-46FC-A5D7-933C3ED4FEDE}|smstest1\\smstest1.csproj|c:\\users\\huzyfa\\source\\repos\\smstest1\\smstest1\\usercontrols\\admituserfrom_uc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A13D6E1-590D-46FC-A5D7-933C3ED4FEDE}|smstest1\\smstest1.csproj|solutionrelative:smstest1\\usercontrols\\admituserfrom_uc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A13D6E1-590D-46FC-A5D7-933C3ED4FEDE}|smstest1\\smstest1.csproj|c:\\users\\huzyfa\\source\\repos\\smstest1\\smstest1\\usercontrols\\admituserfrom_uc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9A13D6E1-590D-46FC-A5D7-933C3ED4FEDE}|smstest1\\smstest1.csproj|solutionrelative:smstest1\\usercontrols\\admituserfrom_uc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A13D6E1-590D-46FC-A5D7-933C3ED4FEDE}|smstest1\\smstest1.csproj|c:\\users\\huzyfa\\source\\repos\\smstest1\\smstest1\\usercontrols\\createcourse_uc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{9A13D6E1-590D-46FC-A5D7-933C3ED4FEDE}|smstest1\\smstest1.csproj|solutionrelative:smstest1\\usercontrols\\createcourse_uc.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A13D6E1-590D-46FC-A5D7-933C3ED4FEDE}|smstest1\\smstest1.csproj|C:\\Users\\Huzyfa\\source\\repos\\smstest1\\smstest1\\usercontrolinititalizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A13D6E1-590D-46FC-A5D7-933C3ED4FEDE}|smstest1\\smstest1.csproj|solutionrelative:smstest1\\usercontrolinititalizer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 183,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{eefa5220-e298-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CreateCourse_UC.cs",
+              "DocumentMoniker": "C:\\Users\\Huzyfa\\source\\repos\\smstest1\\smstest1\\UserControls\\CreateCourse_UC.cs",
+              "RelativeDocumentMoniker": "smstest1\\UserControls\\CreateCourse_UC.cs",
+              "ToolTip": "C:\\Users\\Huzyfa\\source\\repos\\smstest1\\smstest1\\UserControls\\CreateCourse_UC.cs",
+              "RelativeToolTip": "smstest1\\UserControls\\CreateCourse_UC.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAkwCoAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T07:32:19.317Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "AdmitUserFrom_UC.cs",
+              "DocumentMoniker": "C:\\Users\\Huzyfa\\source\\repos\\smstest1\\smstest1\\UserControls\\AdmitUserFrom_UC.cs",
+              "RelativeDocumentMoniker": "smstest1\\UserControls\\AdmitUserFrom_UC.cs",
+              "ToolTip": "C:\\Users\\Huzyfa\\source\\repos\\smstest1\\smstest1\\UserControls\\AdmitUserFrom_UC.cs",
+              "RelativeToolTip": "smstest1\\UserControls\\AdmitUserFrom_UC.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T05:31:50.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CreateCourse_UC.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Huzyfa\\source\\repos\\smstest1\\smstest1\\UserControls\\CreateCourse_UC.cs",
+              "RelativeDocumentMoniker": "smstest1\\UserControls\\CreateCourse_UC.cs",
+              "ToolTip": "C:\\Users\\Huzyfa\\source\\repos\\smstest1\\smstest1\\UserControls\\CreateCourse_UC.cs [Design]",
+              "RelativeToolTip": "smstest1\\UserControls\\CreateCourse_UC.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T06:52:10.941Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "AdmitUserFrom_UC.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Huzyfa\\source\\repos\\smstest1\\smstest1\\UserControls\\AdmitUserFrom_UC.cs",
+              "RelativeDocumentMoniker": "smstest1\\UserControls\\AdmitUserFrom_UC.cs",
+              "ToolTip": "C:\\Users\\Huzyfa\\source\\repos\\smstest1\\smstest1\\UserControls\\AdmitUserFrom_UC.cs [Design]",
+              "RelativeToolTip": "smstest1\\UserControls\\AdmitUserFrom_UC.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-03T05:31:43.31Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CreateSemester_UC.cs",
+              "DocumentMoniker": "C:\\Users\\Huzyfa\\source\\repos\\smstest1\\smstest1\\UserControls\\CreateSemester_UC.cs",
+              "RelativeDocumentMoniker": "smstest1\\UserControls\\CreateSemester_UC.cs",
+              "ToolTip": "C:\\Users\\Huzyfa\\source\\repos\\smstest1\\smstest1\\UserControls\\CreateSemester_UC.cs",
+              "RelativeToolTip": "smstest1\\UserControls\\CreateSemester_UC.cs",
+              "ViewState": "AQIAABgAAAAAAAAAAAAowCoAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T16:28:20.243Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CreateSemester_UC.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Huzyfa\\source\\repos\\smstest1\\smstest1\\UserControls\\CreateSemester_UC.cs",
+              "RelativeDocumentMoniker": "smstest1\\UserControls\\CreateSemester_UC.cs",
+              "ToolTip": "C:\\Users\\Huzyfa\\source\\repos\\smstest1\\smstest1\\UserControls\\CreateSemester_UC.cs [Design]",
+              "RelativeToolTip": "smstest1\\UserControls\\CreateSemester_UC.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T15:28:51.938Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SqlFunctions.cs",
+              "DocumentMoniker": "C:\\Users\\Huzyfa\\source\\repos\\smstest1\\smstest1\\SqlFunctions.cs",
+              "RelativeDocumentMoniker": "smstest1\\SqlFunctions.cs",
+              "ToolTip": "C:\\Users\\Huzyfa\\source\\repos\\smstest1\\smstest1\\SqlFunctions.cs",
+              "RelativeToolTip": "smstest1\\SqlFunctions.cs",
+              "ViewState": "AQIAAGMAAAAAAAAAAAAwwJEAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T13:40:22.511Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdminUserControl.cs",
+              "DocumentMoniker": "C:\\Users\\Huzyfa\\source\\repos\\smstest1\\smstest1\\UserControls\\AdminUserControl.cs",
+              "RelativeDocumentMoniker": "smstest1\\UserControls\\AdminUserControl.cs",
+              "ToolTip": "C:\\Users\\Huzyfa\\source\\repos\\smstest1\\smstest1\\UserControls\\AdminUserControl.cs",
+              "RelativeToolTip": "smstest1\\UserControls\\AdminUserControl.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAmwCAAAABLAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T13:40:09.234Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AdminUserControl.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\Huzyfa\\source\\repos\\smstest1\\smstest1\\UserControls\\AdminUserControl.cs",
+              "RelativeDocumentMoniker": "smstest1\\UserControls\\AdminUserControl.cs",
+              "ToolTip": "C:\\Users\\Huzyfa\\source\\repos\\smstest1\\smstest1\\UserControls\\AdminUserControl.cs [Design]",
+              "RelativeToolTip": "smstest1\\UserControls\\AdminUserControl.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-02T13:40:04.928Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserControlInititalizer.cs",
+              "DocumentMoniker": "C:\\Users\\Huzyfa\\source\\repos\\smstest1\\smstest1\\UserControlInititalizer.cs",
+              "RelativeDocumentMoniker": "smstest1\\UserControlInititalizer.cs",
+              "ToolTip": "C:\\Users\\Huzyfa\\source\\repos\\smstest1\\smstest1\\UserControlInititalizer.cs",
+              "RelativeToolTip": "smstest1\\UserControlInititalizer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAALAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-04-28T19:06:03.736Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
